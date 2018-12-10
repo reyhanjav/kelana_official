@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "139627218722",
+    "firebase_url": "https://kelana-99a8a.firebaseio.com",
+    "project_id": "kelana-99a8a",
+    "storage_bucket": "kelana-99a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139627218722:android:ddfe1db9e3064871",
+        "android_client_info": {
+          "package_name": "com.example.kelana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139627218722-sm6i413p9jk4hoaaotshucs9u40btft4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kelana",
+            "certificate_hash": "6cd6e682f8cd1aa57d726f6036cff22098036288"
+          }
+        },
+        {
+          "client_id": "139627218722-rfkrhq91nu99q26t35ndhfpudocqqiga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYElqvNrY9ENUp06qD0-DYUgPi3qpqXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139627218722-rfkrhq91nu99q26t35ndhfpudocqqiga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
